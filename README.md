@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Zain
 
-<!--
-**ali-zain-ai/ali-zain-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Student • Aspiring ML Engineer • Python Developer**
 
-Here are some ideas to get you started:
+🔭 I build practical Computer Vision and ML projects — focused on real-world applications: face mask detection (web app), brain tumor detection, face emotion detection, and useful automation tools.
+🌱 Learning path: ANN → CNN (current) → Voice Recognition → RNN / Sequence Models.
+💼 Open to internships · Available for collaborations & freelance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+* **Face Mask Detection (Web App)** — Real-time mask detection using CNN + simple Flask app.
+* **Brain Tumor Detection** — Medical image classification pipeline (preprocessing, model, evaluation).
+* **Face Emotion Detection** — Emotion classification from webcam images.
+* **Cafe Management System** — Python console project (beginner-friendly).
+
+*(Pinned repositories below contain code, demos, and setup instructions.)*
+
+---
+
+## 🛠️ Tech & Tools
+
+Python · NumPy · Pandas · OpenCV · scikit-learn · TensorFlow / Keras · PyTorch · Flask · Jupyter · Git
+
+---
+
+## 📂 How my repos are structured (example)
+
+```
+project-name/
+├─ README.md
+├─ src/
+│  ├─ app.py
+│  ├─ model.py
+│  └─ utils.py
+├─ notebooks/
+├─ requirements.txt
+├─ demo.gif
+└─ LICENSE
+```
+
+---
+
+## 📫 Contact
+
+Email: [mindfuelbyali@gmail.com](mailto:mindfuelbyali@gmail.com)
+LinkedIn: [https://linkedin.com/in/ali-zain-0765a336b](https://linkedin.com/in/ali-zain-0765a336b)
+
+---
+
+## 📈 Stats & Activity
+
+I keep a steady rhythm of improvements — small commits, README polish, and demo updates. Feel free to check pinned repos for live demos and instructions.
