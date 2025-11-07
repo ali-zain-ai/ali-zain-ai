@@ -2,7 +2,7 @@
 
 **AI Student • Aspiring ML Engineer • Python Developer**
 
-🔭 I build practical Computer Vision and ML projects — focused on real-world applications: face mask detection (web app), brain tumor detection, face emotion detection, and useful automation tools.
+🔭 I build practical Computer Vision and ML projects focused on real-world applications: face mask detection (web app), brain tumor detection, face emotion detection, and useful automation tools.
 🌱 Learning path: ANN → CNN (current) → Voice Recognition → RNN / Sequence Models.
 💼 Open to internships · Available for collaborations & freelance projects.
 
